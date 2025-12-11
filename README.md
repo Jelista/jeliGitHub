@@ -1,4 +1,4 @@
 # jeliGitHub
 new to github
-hi hello
+ hello guys
 welcome to github
